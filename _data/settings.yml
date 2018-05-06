@@ -1,13 +1,12 @@
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  comments: true
+  disqus_shortname: 'tomoya-amachis-blog'
 
 google-ID: ''
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
+- {name: 'Blog', path: 'menu', url: 'writing.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -22,7 +21,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Share!'
 
 related_posts: 'You may also enjoy:'
 
