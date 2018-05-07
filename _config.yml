@@ -11,9 +11,11 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            5
+paginate: 5
+
 github:
   url: https://tomoya.goodwith.tech
+
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
