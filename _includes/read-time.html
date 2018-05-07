@@ -1,5 +1,6 @@
 {% if post.layout != post %}
   {% assign words = post.content | strip_html | size %}
+  {{ words }}
   {% if words < 300 %}
     less than 1 minute read
   {% elsif words < 600 %}
@@ -7,10 +8,11 @@
   {% else %}
     {{ words | divided_by:600 }} minutes read
   {% endif %}
+
 {% endif %}
 
 {% if post.layout == post %}
-  {% assign words = content | size %}
+  {% assign words = content.size %}
   {% if words < 300 %}
     less than 1 minute read
   {% elsif words < 600 %}
