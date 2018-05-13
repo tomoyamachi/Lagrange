@@ -14,7 +14,7 @@ tags: [memo]
 
 補足としては、色覚異常は視細胞の一種である「錐体細胞」に由来します。錐体細胞のどこに問題があるかによって、またその程度によって見え方の差があるので、一概に色覚異常の人がこう見えているというのは言えません。
 
-![色覚異常者の見え方](./UNO_color_blind.JPG)
+![色覚異常者の見え方](./assets/img/UNO_color_blind.JPG)
 [http://www.shiga-med.ac.jp/~hqophth/farbe/miekata.html](http://www.shiga-med.ac.jp/~hqophth/farbe/miekata.html)
 
 なおゲーム制作の現場だと、色覚異常者がどのように見えているか、ということを行うテストツールを使うこともあります。
